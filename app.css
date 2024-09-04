@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    border: solid;
+    margin-right: 400px;
+    margin-left: 400px;
+    margin-top: 0;
+    padding-top: 2px;
+    background-size: 230vh ;
+    
+}
+
+#img{
+    
+    background-repeat: no-repeat; 
+    background:blure
+}
+
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
